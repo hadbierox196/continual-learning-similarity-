@@ -5,8 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![OSF DOI](https://img.shields.io/badge/OSF-DOI-orange.svg)](https://doi.org/10.17605/OSF.IO/KFHZW)
-[![ZENODO DOI](https://img.shields.io/badge/Zenodo-DOI-green.svg)](https://pytorch.org/)
-
+[![DOI](https://zenodo.org/badge/1270865678.svg)](https://doi.org/10.5281/zenodo.20749168)
 **Preprint:** [DOI coming soon]  
 
 
