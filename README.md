@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![OSF DOI](https://img.shields.io/badge/OSF-DOI-pink.svg)](https://doi.org/10.17605/OSF.IO/KFHZW)
+[![OSF DOI](https://img.shields.io/badge/OSF-DOI-orange.svg)](https://doi.org/10.17605/OSF.IO/KFHZW)
 [![ZENODO DOI](https://img.shields.io/badge/Zenodo-DOI-green.svg)](https://pytorch.org/)
 
 **Preprint:** [DOI coming soon]  
